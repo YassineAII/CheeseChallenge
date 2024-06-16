@@ -1,0 +1,5 @@
+_target_: data.dataset_generators.simple_dreambooth.SimpleDreamboothDatasetGenerator
+generator: ${image_generator}
+batch_size: ${batch_size}
+output_dir: ${data_dir}/train/dreambooth_test
+num_images_per_label: 10

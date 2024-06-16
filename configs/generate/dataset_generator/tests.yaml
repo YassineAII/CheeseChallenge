@@ -1,0 +1,6 @@
+_target_: data.dataset_generators.tests.TestsDatasetGenerator
+generator: ${image_generator}
+batch_size: ${batch_size}
+output_dir: ${data_dir}/train/tests_for_assignment
+num_images_per_label: 10
+labels_path: ${root_dir}/labels_for_generation.txt

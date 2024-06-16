@@ -1,0 +1,6 @@
+_target_: data.dataset_generators.gpt4oprompts.GPTDatasetGenerator
+generator: ${image_generator}
+labels_path: ${root_dir}/labels_for_generation.txt
+batch_size: ${batch_size}
+output_dir: ${data_dir}/train/simple_scaled_added
+num_images_per_label: 20

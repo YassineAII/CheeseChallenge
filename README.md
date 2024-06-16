@@ -1,7 +1,5 @@
 # Cheese Classification challenge
-This codebase allows you to jumpstart the INF473V challenge.
-The goal of this channel is to create a cheese classifier without any real training data.
-You will need to create your own training data from tools such as Stable Diffusion, SD-XL, etc...
+Welcome to the Cheese Challenge made as a final challenge for the INF473V Deep Learning in Computer Vision course at École polytechnique
 
 ## Instalation
 

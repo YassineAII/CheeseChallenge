@@ -1,17 +1,18 @@
 # Cheese Classification challenge
-Welcome to the Cheese Challenge made as a final challenge for the INF473V Deep Learning in Computer Vision course at École polytechnique
+Welcome to the Cheese Challenge made as a final challenge for the INF473V Deep Learning in Computer Vision course at École polytechnique.
+
 
 ## Instalation
 
 Cloning the repo:
 ```
-git clone git@github.com:nicolas-dufour/cheese_classification_challenge.git
-cd cheese_classification_challenge
+git clone git@github.com:YassineAII/CheeseChallenge.git
+cd CheeseCallenge
 ```
 Install dependencies:
 ```
-conda create -n cheese_challenge python=3.10
-conda activate cheese_challenge
+conda create -n CheeseChallenge python=3.10
+conda activate CheeseChallenge
 ```
 ### Install requirements:
 ##### Install Pytorch:
